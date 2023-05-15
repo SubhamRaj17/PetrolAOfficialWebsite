@@ -104,7 +104,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Sofia&amp;display=swap');
 
 :root{
-    --main-color: #FF0303;
+    --main-color: #ff5104;
     --black: #000;
     --white: #fff;
     --grey: #666; 
@@ -1223,7 +1223,7 @@ input:-webkit-autofill:active {
 }
 
 .about .content h3{
-    font-size: 4rem;
+    font-size: 3.9rem;
     font-weight: 600;
     color: var(--black);
     line-height: 1.3;
