@@ -2163,7 +2163,7 @@ input:-webkit-autofill:active {
 }
 
 .event-info .image{
-    height: 40rem;
+    height: 48rem;
     border-radius: var(--border-radius); 
     overflow: hidden;
 }
